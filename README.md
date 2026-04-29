@@ -1,3 +1,12 @@
+> **drasticstatic working copy** — Used by the [Fortuna trading system](https://github.com/drasticstatic/trading-assistant). This is an independent repo created from a local clone of [hummingbot/mcp](https://github.com/hummingbot/mcp). Upstream is tracked as a remote for voluntary comparison — changes are reviewed before applying.
+> 
+> ```bash
+> # Check for upstream updates (review before applying)
+> git fetch upstream && git log upstream/main --oneline
+> ```
+
+---
+
 # MCP Hummingbot Server
 
 An MCP (Model Context Protocol) server that enables Claude and Gemini CLI to interact with Hummingbot for automated cryptocurrency trading across multiple exchanges.
