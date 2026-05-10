@@ -7,6 +7,8 @@
 
 ---
 
+[![Docker Build](https://github.com/drasticstatic/hummingbot-mcp/actions/workflows/docker-build.yml/badge.svg)](https://github.com/drasticstatic/hummingbot-mcp/actions/workflows/docker-build.yml) [![Publish MCP](https://github.com/drasticstatic/hummingbot-mcp/actions/workflows/publish-mcp.yml/badge.svg)](https://github.com/drasticstatic/hummingbot-mcp/actions/workflows/publish-mcp.yml)
+
 # MCP Hummingbot Server
 
 An MCP (Model Context Protocol) server that enables Claude and Gemini CLI to interact with Hummingbot for automated cryptocurrency trading across multiple exchanges.
