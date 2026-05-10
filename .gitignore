@@ -209,3 +209,8 @@ cython_debug/
 # Local config
 .mcp.json
 .vscode/
+
+# Graphify — local-only outputs (graph.json, GRAPH_REPORT.md, graph.html are committed)
+graphify-out/manifest.json
+graphify-out/cost.json
+graphify-out/cache/
